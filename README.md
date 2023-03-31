@@ -1,7 +1,7 @@
 # 💫About Me :
-15 years of hands-on experience in Development, Production Support and DevOps Practices. Built and maintained large enterprise applications for Investment Banking, Financial, Pharmacy, Content Management based organizations using Open Source Technologies on Linux and Windows platforms. Passionate about technology, learning new things, and how they can be used to deliver better results quicker. Can work collaboratively within the team as well as work independently. 
+16 years of hands-on experience in Development, Production Support and DevOps Practices. Built and maintained large enterprise applications for Investment Banking, Financial, Pharmacy, Content Management based organizations using Open Source Technologies on Linux and Windows platforms. Passionate about technology, learning new things, and how they can be used to deliver better results quicker. Can work collaboratively within the team as well as work independently. 
 
-Specialties: DevOps, Perl, Shell, Python, Ansible, Jenkins, Web Development, Linux, Open Source
+Specialties: DevOps, SRE, Python, Perl, Shell, Ansible, Jenkins, Web Development, Linux, Open Source
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rkommidi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@raghav0401) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raghav_kommidi) 
